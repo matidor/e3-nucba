@@ -1,4 +1,4 @@
-const pizzas = JSON.parse(localStorage.getItem('pizzas')) || [
+const pizzas = /*JSON.parse(localStorage.getItem('pizzas')) ||*/ [
     {
         id: 1,
         nombre: "Muzza de Cancha",
