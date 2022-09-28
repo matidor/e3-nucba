@@ -35,7 +35,7 @@ const pizzas = /*JSON.parse(localStorage.getItem('pizzas')) ||*/ [
         id: 5,
         nombre: "pizza 420 ",
         precio: 1420,
-        imagen: "./img/pizza-420.png",
+        imagen: "./img/pizza-420.jpg",
         ingredientes: ["Muza", "Cebolla Morada", " Calabresa", "Roquefort"]
     },
 
